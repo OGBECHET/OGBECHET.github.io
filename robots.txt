@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ogbechet.github.io/sitemap.xml
